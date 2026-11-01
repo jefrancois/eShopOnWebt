@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Logging;
 
+
 namespace Microsoft.eShopWeb.Web.Configuration;
 
 //TODO : replace IMemoryCache with a distributed cache if you are in multi-host scenario
